@@ -3,7 +3,6 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 import org.json.simple.parser.ParseException;
 
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
@@ -25,11 +24,11 @@ public class ReadAndDisplayGKQuesAndAns {
         String Option4 =  (String) quesObject.get("Option4");
 
         //print question
-        System.out.println(Question);
-        System.out.println(Option1);
-        System.out.println(Option2);
-        System.out.println(Option3);
-        System.out.println(Option4);
+        System.out.println("Question: "+Question);
+        System.out.println("Option1: "+Option1);
+        System.out.println("Option2: "+Option2);
+        System.out.println("Option3: "+Option3);
+        System.out.println("Option4: "+Option4);
 
     }
 
