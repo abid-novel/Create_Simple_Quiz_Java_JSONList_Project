@@ -4,7 +4,7 @@ import java.io.IOException;
 
 public class RunTheQuiz {
     public static void main(String[] args) throws IOException, ParseException {
-        //WriteJSONArrayList.writeGeneralKnowledgeQues();
+
 
     }
 }
