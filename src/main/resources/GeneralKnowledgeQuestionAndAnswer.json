@@ -1,0 +1,162 @@
+[
+  {
+    "Option4": "Cumilla",
+    "Option3": "Dhaka",
+    "Answer": "Dhaka",
+    "Option2": "Rangpur",
+    "Option1": "Mymensingh",
+    "Question": "What is the capital city of Bangladesh?"
+  },
+  {
+    "Option4": "Urdu",
+    "Option3": "Hindi",
+    "Answer": "Bangla",
+    "Option2": "English",
+    "Option1": "Bangla",
+    "Question": "What is the national language of Bangladesh?"
+  },
+  {
+    "Option4": "Six",
+    "Option3": "Two",
+    "Answer": "Six",
+    "Option2": "Ten",
+    "Option1": "Seven",
+    "Question": "How many seasons does Bangladesh normally experience?"
+  },
+  {
+    "Option4": "Six",
+    "Option3": "Two",
+    "Answer": "Six",
+    "Option2": "Ten",
+    "Option1": "Seven",
+    "Question": "How many seasons does Bangladesh normally experience?"
+  },
+  {
+    "Option4": "Taka",
+    "Option3": "Dollar",
+    "Answer": "Taka",
+    "Option2": "Rupee",
+    "Option1": "Euro",
+    "Question": "What is the currency of Bangladesh?"
+  },
+  {
+    "Option4": "Padma",
+    "Option3": "Meghna",
+    "Answer": "Buriganga",
+    "Option2": "Jamuna ",
+    "Option1": "Buriganga",
+    "Question": "On which river Dhaka is situated?"
+  },
+  {
+    "Option4": "Myanmar and Nepal",
+    "Option3": "India and Myanmar",
+    "Answer": "India and Myanmar",
+    "Option2": "India and Nepal",
+    "Option1": "Nepal and Bhutan",
+    "Question": "Bangladesh is bordered by two countries.Which ones?"
+  },
+  {
+    "Option4": "Asia",
+    "Option3": "Europe",
+    "Answer": "Asia",
+    "Option2": "South America",
+    "Option1": "Africa ",
+    "Question": "On which continent is Bangladesh located?"
+  },
+  {
+    "Option4": "Other",
+    "Option3": "Buddhism",
+    "Answer": "Islam",
+    "Option2": "Hinduism",
+    "Option1": "Islam",
+    "Question": "What is the main religion practiced in Bangladesh?"
+  },
+  {
+    "Option4": "Tram",
+    "Option3": "Toboggan",
+    "Answer": "Rickshaw",
+    "Option2": "Elephant",
+    "Option1": "Rickshaw",
+    "Question": "Which of these is a common mode of transport in Bangladeshi cities?"
+  },
+  {
+    "Option4": "1988",
+    "Option3": "1971",
+    "Answer": "1971",
+    "Option2": "1975",
+    "Option1": "1952",
+    "Question": "What year did Bangladesh finally become independent and gain the name it has today?"
+  },
+  {
+    "Option4": "Cuckoo clocks",
+    "Option3": "Coffee",
+    "Answer": "Textiles",
+    "Option2": "Cars ",
+    "Option1": "Textiles",
+    "Question": "Which of these is a main export of Bangladesh?"
+  },
+  {
+    "Option4": "CPU",
+    "Option3": "Mother Board",
+    "Answer": "CPU",
+    "Option2": "Graphic Card ",
+    "Option1": "Memory",
+    "Question": "Which of the following is the processing unit of the computer?"
+  },
+  {
+    "Option4": "Drafts",
+    "Option3": "Spam",
+    "Answer": "Drafts",
+    "Option2": "Sent",
+    "Option1": "Inbox",
+    "Question": "Which of these folders in Gmail will contain the emails which are composed but not yet sent?"
+  },
+  {
+    "Option4": "Football",
+    "Option3": "Hockey",
+    "Answer": "Kabadi",
+    "Option2": "Kabadi",
+    "Option1": "Cricket",
+    "Question": "What is the national game of Bangladesh?"
+  },
+  {
+    "Option4": "Cricket",
+    "Option3": "Hockey",
+    "Answer": "Poetry",
+    "Option2": "Politics",
+    "Option1": "Poetry",
+    "Question": "Kazi Nazrul Islam is Associated with?"
+  },
+  {
+    "Option4": "64",
+    "Option3": "96",
+    "Answer": "64",
+    "Option2": "69",
+    "Option1": "68",
+    "Question": "How many districts are there in Bangladesh?"
+  },
+  {
+    "Option4": "Tianjin",
+    "Option3": "Wuhan",
+    "Answer": "Wuhan",
+    "Option2": "Shanghai",
+    "Option1": "Beijing",
+    "Question": "The first case of novel coronavirus was identified in?"
+  },
+  {
+    "Option4": "2018",
+    "Option3": "2021",
+    "Answer": "2019",
+    "Option2": "2019",
+    "Option1": "2020",
+    "Question": "When was COVID-19 first reported?"
+  },
+  {
+    "Option4": "1",
+    "Option3": "0",
+    "Answer": "0",
+    "Option2": "7105",
+    "Option1": "5369",
+    "Question": "What is the right answer: 7*51*0*255"
+  }
+]
