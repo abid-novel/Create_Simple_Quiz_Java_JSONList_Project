@@ -1,3 +1,8 @@
+// Task:  1.Add 20 general knowledge question in a json file.
+//        2.Generate 5 random questions from the saved question.
+//        3.Now input the correct answer. If ans is correct, count point 1 for each corrected ans. For each wrong ans, point is 0.
+//        4.After ending the quiz, show total point out of 5 questions.
+
 import org.json.simple.parser.ParseException;
 
 import java.io.IOException;
